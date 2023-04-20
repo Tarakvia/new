@@ -4,5 +4,5 @@
 #চেজ করে দিমু
 
 import os
-import new 
+import new.py
 new.login()
