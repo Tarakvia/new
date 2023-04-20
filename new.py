@@ -5,4 +5,4 @@
 
 import os
 import new 
-new .login()
+new.login()
