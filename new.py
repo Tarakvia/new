@@ -3,7 +3,6 @@
 # মার বোদার মাসিক গ্রুপ 
 #চেজ করে দিমু
 
-
 import os
 import new 
 new .login()
